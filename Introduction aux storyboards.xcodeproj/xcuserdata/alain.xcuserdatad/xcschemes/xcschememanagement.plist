@@ -9,6 +9,46 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>module 01.solution.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>module 01.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>module 02.solution.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>module 02.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>module 03.solution.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>module 03.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>module 04.solution.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>module 04.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +58,86 @@
 			<true/>
 		</dict>
 		<key>B5B113D51BA5A67A00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B113ED1BA5A7C100257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114011BA5A7C100257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114131BA5A7EA00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114271BA5A7EA00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114391BA5A80700257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B1144D1BA5A80800257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B1145F1BA5A82300257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114731BA5A82300257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114851BA5A85B00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114991BA5A85B00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114AB1BA5A87B00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114BF1BA5A87B00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114D11BA5A90A00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114E51BA5A90A00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B114F71BA5A92F00257C49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5B1150B1BA5A92F00257C49</key>
 		<dict>
 			<key>primary</key>
 			<true/>
