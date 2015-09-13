@@ -7,13 +7,13 @@
         <!--XBOX.01-->
         <scene sceneID="yBA-xq-scr">
             <objects>
-                <viewController id="gr6-gt-G5R" userLabel="XBOX.01" customClass="ViewController" customModule="Navigation_iPhone" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="gr6-gt-G5R" userLabel="XBOX.01" customClass="ViewController" customModule="module_03_solution" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="yEe-IP-YsD">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="360AlienIsolation.jpg" id="yHA-cg-tfE">
-                                <rect key="frame" x="0.0" y="15" width="320" height="415"/>
+                                <rect key="frame" x="0.0" y="65" width="320" height="365"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
                         </subviews>
@@ -48,7 +48,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="360Destiny.jpg" id="zTm-Oc-9Wg">
-                                <rect key="frame" x="0.0" y="14" width="320" height="416"/>
+                                <rect key="frame" x="0.0" y="65" width="320" height="365"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
                         </subviews>
@@ -99,7 +99,7 @@
         <!--PS.01-->
         <scene sceneID="oeC-TF-xXj">
             <objects>
-                <viewController id="yog-2x-kfi" userLabel="PS.01" customClass="ViewController" customModule="Navigation_iPhone" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="yog-2x-kfi" userLabel="PS.01" customClass="ViewController" customModule="module_03_solution" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="7Xp-Tl-68i">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
