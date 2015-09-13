@@ -1684,16 +1684,6 @@
 		B5B11C5C1BA5CEB600257C49 /* Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B11C5A1BA5CEB600257C49 /* Intro.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		B5B113D71BA5A67A00257C49 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = B5B113B91BA5A67A00257C49 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = B5B113C01BA5A67A00257C49;
-			remoteInfo = "Introduction aux storyboards";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
 		B5B113C11BA5A67A00257C49 /* Introduction aux storyboards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Introduction aux storyboards.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5B113C51BA5A67A00257C49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -1702,7 +1692,6 @@
 		B5B113CB1BA5A67A00257C49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B5B113CD1BA5A67A00257C49 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B5B113D01BA5A67A00257C49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		B5B113D61BA5A67A00257C49 /* Introduction aux storyboardsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Introduction aux storyboardsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5B113EE1BA5A7C100257C49 /* module 01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "module 01.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5B113F11BA5A7C100257C49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B5B113F21BA5A7C100257C49 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -1984,13 +1973,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B5B113D31BA5A67A00257C49 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		B5B113EB1BA5A7C100257C49 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -2064,7 +2046,6 @@
 			isa = PBXGroup;
 			children = (
 				B5B113C11BA5A67A00257C49 /* Introduction aux storyboards.app */,
-				B5B113D61BA5A67A00257C49 /* Introduction aux storyboardsTests.xctest */,
 				B5B113EE1BA5A7C100257C49 /* module 01.app */,
 				B5B114141BA5A7EA00257C49 /* module 02.app */,
 				B5B1143A1BA5A80700257C49 /* module 03.app */,
@@ -2579,24 +2560,6 @@
 			productReference = B5B113C11BA5A67A00257C49 /* Introduction aux storyboards.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B5B113D51BA5A67A00257C49 /* Introduction aux storyboardsTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = B5B113E31BA5A67A00257C49 /* Build configuration list for PBXNativeTarget "Introduction aux storyboardsTests" */;
-			buildPhases = (
-				B5B113D21BA5A67A00257C49 /* Sources */,
-				B5B113D31BA5A67A00257C49 /* Frameworks */,
-				B5B113D41BA5A67A00257C49 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				B5B113D81BA5A67A00257C49 /* PBXTargetDependency */,
-			);
-			name = "Introduction aux storyboardsTests";
-			productName = "Introduction aux storyboardsTests";
-			productReference = B5B113D61BA5A67A00257C49 /* Introduction aux storyboardsTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 		B5B113ED1BA5A7C100257C49 /* module 01 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = B5B1140A1BA5A7C100257C49 /* Build configuration list for PBXNativeTarget "module 01" */;
@@ -2745,10 +2708,6 @@
 					B5B113C01BA5A67A00257C49 = {
 						CreatedOnToolsVersion = 6.4;
 					};
-					B5B113D51BA5A67A00257C49 = {
-						CreatedOnToolsVersion = 6.4;
-						TestTargetID = B5B113C01BA5A67A00257C49;
-					};
 					B5B113ED1BA5A7C100257C49 = {
 						CreatedOnToolsVersion = 6.4;
 					};
@@ -2789,7 +2748,6 @@
 			projectRoot = "";
 			targets = (
 				B5B113C01BA5A67A00257C49 /* Introduction aux storyboards */,
-				B5B113D51BA5A67A00257C49 /* Introduction aux storyboardsTests */,
 				B5B113ED1BA5A7C100257C49 /* module 01 */,
 				B5B114131BA5A7EA00257C49 /* module 02 */,
 				B5B114391BA5A80700257C49 /* module 03 */,
@@ -2810,13 +2768,6 @@
 				B5B113CC1BA5A67A00257C49 /* Main.storyboard in Resources */,
 				B5B113D11BA5A67A00257C49 /* LaunchScreen.xib in Resources */,
 				B5B113CE1BA5A67A00257C49 /* Images.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		B5B113D41BA5A67A00257C49 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4538,13 +4489,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B5B113D21BA5A67A00257C49 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		B5B113EA1BA5A7C100257C49 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -4622,14 +4566,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		B5B113D81BA5A67A00257C49 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = B5B113C01BA5A67A00257C49 /* Introduction aux storyboards */;
-			targetProxy = B5B113D71BA5A67A00257C49 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		B5B113CA1BA5A67A00257C49 /* Main.storyboard */ = {
@@ -4880,40 +4816,6 @@
 			};
 			name = Release;
 		};
-		B5B113E41BA5A67A00257C49 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = "Introduction aux storyboardsTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Introduction aux storyboards.app/Introduction aux storyboards";
-			};
-			name = Debug;
-		};
-		B5B113E51BA5A67A00257C49 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = "Introduction aux storyboardsTests/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Introduction aux storyboards.app/Introduction aux storyboards";
-			};
-			name = Release;
-		};
 		B5B1140B1BA5A7C100257C49 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -5125,14 +5027,7 @@
 				B5B113E21BA5A67A00257C49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-		};
-		B5B113E31BA5A67A00257C49 /* Build configuration list for PBXNativeTarget "Introduction aux storyboardsTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				B5B113E41BA5A67A00257C49 /* Debug */,
-				B5B113E51BA5A67A00257C49 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B1140A1BA5A7C100257C49 /* Build configuration list for PBXNativeTarget "module 01" */ = {
 			isa = XCConfigurationList;
@@ -5141,6 +5036,7 @@
 				B5B1140C1BA5A7C100257C49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B114301BA5A7EA00257C49 /* Build configuration list for PBXNativeTarget "module 02" */ = {
 			isa = XCConfigurationList;
@@ -5149,6 +5045,7 @@
 				B5B114321BA5A7EA00257C49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B114561BA5A80800257C49 /* Build configuration list for PBXNativeTarget "module 03" */ = {
 			isa = XCConfigurationList;
@@ -5157,6 +5054,7 @@
 				B5B114581BA5A80800257C49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B1147C1BA5A82300257C49 /* Build configuration list for PBXNativeTarget "module 04" */ = {
 			isa = XCConfigurationList;
@@ -5165,6 +5063,7 @@
 				B5B1147E1BA5A82300257C49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B114A21BA5A85B00257C49 /* Build configuration list for PBXNativeTarget "module 01.solution" */ = {
 			isa = XCConfigurationList;
@@ -5173,6 +5072,7 @@
 				B5B114A41BA5A85B00257C49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B114C81BA5A87B00257C49 /* Build configuration list for PBXNativeTarget "module 02.solution" */ = {
 			isa = XCConfigurationList;
@@ -5181,6 +5081,7 @@
 				B5B114CA1BA5A87B00257C49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B114EE1BA5A90A00257C49 /* Build configuration list for PBXNativeTarget "module 03.solution" */ = {
 			isa = XCConfigurationList;
@@ -5189,6 +5090,7 @@
 				B5B114F01BA5A90A00257C49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5B115141BA5A92F00257C49 /* Build configuration list for PBXNativeTarget "module 04.solution" */ = {
 			isa = XCConfigurationList;
@@ -5197,6 +5099,7 @@
 				B5B115161BA5A92F00257C49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
