@@ -7,7 +7,7 @@
         <!--bleu-->
         <scene sceneID="nDT-Qf-82z">
             <objects>
-                <viewController id="pwx-hm-Xyi" userLabel="bleu" customClass="ViewController" customModule="module_02" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="pwx-hm-Xyi" userLabel="bleu" customClass="ViewController" customModule="module_02_solution" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="V8j-qD-9m4">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -29,7 +29,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="1" green="0.63794120590000003" blue="0.61993909280000004" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="rouge" image="05-shuffle.png" id="uH4-F3-Ksv"/>
+                    <tabBarItem key="tabBarItem" title="rouge" image="03-loopback.png" badgeValue="test" id="uH4-F3-Ksv"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ufB-C9-UrF" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -76,7 +76,7 @@
     </scenes>
     <resources>
         <image name="02-redo.png" width="30" height="26"/>
-        <image name="05-shuffle.png" width="28" height="20"/>
+        <image name="03-loopback.png" width="32" height="22"/>
         <image name="128-bone.png" width="30" height="13"/>
     </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">

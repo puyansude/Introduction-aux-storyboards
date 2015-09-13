@@ -1,25 +1,147 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="bcW-Tr-DzY">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6204"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
-        <scene sceneID="ufC-wZ-h7g">
+        <!--XBOX.01-->
+        <scene sceneID="tVC-F7-9JN">
             <objects>
-                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
-                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                <viewController id="bcW-Tr-DzY" userLabel="XBOX.01" customClass="ViewController" customModule="Navigation_iPhone" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="o4m-mx-OtD">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="360AlienIsolation.jpg" id="DpO-yg-6hM">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                     </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="9x2-qk-GLN" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="1641" y="-70"/>
+        </scene>
+        <!--XBOX.02-->
+        <scene sceneID="EFi-89-MtR">
+            <objects>
+                <viewController id="DjH-Gk-eFZ" userLabel="XBOX.02" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="EcL-Ze-0J2">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="360Destiny.jpg" id="GZz-vQ-vAg">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="m9p-Ej-YJm" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2037" y="-75"/>
+        </scene>
+        <!--XBOX.03-->
+        <scene sceneID="GqP-g5-P7Y">
+            <objects>
+                <viewController id="Jf7-Al-WWa" userLabel="XBOX.03" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="bxZ-2K-PYK">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="360WalkingDeadS2.jpg" id="p4V-Xf-H7z">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3Cn-MO-xdK" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2447" y="-75"/>
+        </scene>
+        <!--PS.01-->
+        <scene sceneID="Krh-KY-sOF">
+            <objects>
+                <viewController id="JA4-a3-4xB" userLabel="PS.01" customClass="ViewController" customModule="Navigation_iPhone" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Yxc-kD-aQi">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="PS4Evil.jpg" id="cV5-qC-XEf">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Q9S-J3-be8" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1641" y="538"/>
+        </scene>
+        <!--PS.02-->
+        <scene sceneID="voh-QC-jwd">
+            <objects>
+                <viewController id="UII-h8-v7Y" userLabel="PS.02" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ZoF-gg-G4y">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ps4tombraiderdefinitiveedition.jpg" id="PhF-U7-lOQ">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="9Yi-wd-J8K" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2037" y="533"/>
+        </scene>
+        <!--PS.03-->
+        <scene sceneID="Gle-IQ-qsk">
+            <objects>
+                <viewController id="ayM-Pd-Vel" userLabel="PS.03" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="9hm-Wx-Nej">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="DiabloPS4.jpg" id="g35-VQ-xdQ">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ahj-Sh-6ed" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2447" y="533"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="360AlienIsolation.jpg" width="1067" height="1500"/>
+        <image name="360Destiny.jpg" width="954" height="1349"/>
+        <image name="360WalkingDeadS2.jpg" width="755" height="1071"/>
+        <image name="DiabloPS4.jpg" width="775" height="952"/>
+        <image name="PS4Evil.jpg" width="1205" height="1500"/>
+        <image name="ps4tombraiderdefinitiveedition.jpg" width="718" height="900"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
 </document>

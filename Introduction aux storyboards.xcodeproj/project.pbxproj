@@ -1652,6 +1652,36 @@
 		B5B11C291BA5B07B00257C49 /* 99-umbrella.png in Resources */ = {isa = PBXBuildFile; fileRef = B5B115EB1BA5B07B00257C49 /* 99-umbrella.png */; };
 		B5B11C2A1BA5B07B00257C49 /* 99-umbrella.png in Resources */ = {isa = PBXBuildFile; fileRef = B5B115EB1BA5B07B00257C49 /* 99-umbrella.png */; };
 		B5B11C2B1BA5B07B00257C49 /* 99-umbrella.png in Resources */ = {isa = PBXBuildFile; fileRef = B5B115EB1BA5B07B00257C49 /* 99-umbrella.png */; };
+		B5B11C361BA5B2DE00257C49 /* 360AlienIsolation.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C2D1BA5B2DE00257C49 /* 360AlienIsolation.jpg */; };
+		B5B11C371BA5B2DE00257C49 /* 360AlienIsolation.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C2D1BA5B2DE00257C49 /* 360AlienIsolation.jpg */; };
+		B5B11C381BA5B2DE00257C49 /* 360Destiny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C2E1BA5B2DE00257C49 /* 360Destiny.jpg */; };
+		B5B11C391BA5B2DE00257C49 /* 360Destiny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C2E1BA5B2DE00257C49 /* 360Destiny.jpg */; };
+		B5B11C3A1BA5B2DE00257C49 /* 360WalkingDeadS2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C2F1BA5B2DE00257C49 /* 360WalkingDeadS2.jpg */; };
+		B5B11C3B1BA5B2DE00257C49 /* 360WalkingDeadS2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C2F1BA5B2DE00257C49 /* 360WalkingDeadS2.jpg */; };
+		B5B11C3C1BA5B2DE00257C49 /* DiabloPS4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C301BA5B2DE00257C49 /* DiabloPS4.jpg */; };
+		B5B11C3D1BA5B2DE00257C49 /* DiabloPS4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C301BA5B2DE00257C49 /* DiabloPS4.jpg */; };
+		B5B11C3E1BA5B2DE00257C49 /* PS4Evil.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C311BA5B2DE00257C49 /* PS4Evil.jpg */; };
+		B5B11C3F1BA5B2DE00257C49 /* PS4Evil.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C311BA5B2DE00257C49 /* PS4Evil.jpg */; };
+		B5B11C401BA5B2DE00257C49 /* ps4tombraiderdefinitiveedition.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C321BA5B2DE00257C49 /* ps4tombraiderdefinitiveedition.jpg */; };
+		B5B11C411BA5B2DE00257C49 /* ps4tombraiderdefinitiveedition.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C321BA5B2DE00257C49 /* ps4tombraiderdefinitiveedition.jpg */; };
+		B5B11C421BA5B2DE00257C49 /* PS4WalkingDeadS1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C331BA5B2DE00257C49 /* PS4WalkingDeadS1.jpg */; };
+		B5B11C431BA5B2DE00257C49 /* PS4WalkingDeadS1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C331BA5B2DE00257C49 /* PS4WalkingDeadS1.jpg */; };
+		B5B11C441BA5B2DE00257C49 /* wiiriseoftheguardians.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C341BA5B2DE00257C49 /* wiiriseoftheguardians.jpg */; };
+		B5B11C451BA5B2DE00257C49 /* wiiriseoftheguardians.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C341BA5B2DE00257C49 /* wiiriseoftheguardians.jpg */; };
+		B5B11C461BA5B2DE00257C49 /* wiitransformersprimethegame.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C351BA5B2DE00257C49 /* wiitransformersprimethegame.jpg */; };
+		B5B11C471BA5B2DE00257C49 /* wiitransformersprimethegame.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C351BA5B2DE00257C49 /* wiitransformersprimethegame.jpg */; };
+		B5B11C4D1BA5BB9300257C49 /* plante01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C491BA5BB9300257C49 /* plante01.jpg */; };
+		B5B11C4E1BA5BB9300257C49 /* plante01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C491BA5BB9300257C49 /* plante01.jpg */; };
+		B5B11C4F1BA5BB9300257C49 /* plante02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C4A1BA5BB9300257C49 /* plante02.jpg */; };
+		B5B11C501BA5BB9300257C49 /* plante02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C4A1BA5BB9300257C49 /* plante02.jpg */; };
+		B5B11C511BA5BB9300257C49 /* plante03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C4B1BA5BB9300257C49 /* plante03.jpg */; };
+		B5B11C521BA5BB9300257C49 /* plante03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C4B1BA5BB9300257C49 /* plante03.jpg */; };
+		B5B11C531BA5BB9300257C49 /* plante04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C4C1BA5BB9300257C49 /* plante04.jpg */; };
+		B5B11C541BA5BB9300257C49 /* plante04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5B11C4C1BA5BB9300257C49 /* plante04.jpg */; };
+		B5B11C581BA5C6A500257C49 /* Plante.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B11C571BA5C6A500257C49 /* Plante.swift */; };
+		B5B11C591BA5C6A500257C49 /* Plante.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B11C571BA5C6A500257C49 /* Plante.swift */; };
+		B5B11C5B1BA5CEB600257C49 /* Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B11C5A1BA5CEB600257C49 /* Intro.swift */; };
+		B5B11C5C1BA5CEB600257C49 /* Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B11C5A1BA5CEB600257C49 /* Intro.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -1929,6 +1959,21 @@
 		B5B115E91BA5B07B00257C49 /* 97-puzzle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "97-puzzle.png"; sourceTree = "<group>"; };
 		B5B115EA1BA5B07B00257C49 /* 98-palette.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "98-palette.png"; sourceTree = "<group>"; };
 		B5B115EB1BA5B07B00257C49 /* 99-umbrella.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "99-umbrella.png"; sourceTree = "<group>"; };
+		B5B11C2D1BA5B2DE00257C49 /* 360AlienIsolation.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 360AlienIsolation.jpg; sourceTree = "<group>"; };
+		B5B11C2E1BA5B2DE00257C49 /* 360Destiny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 360Destiny.jpg; sourceTree = "<group>"; };
+		B5B11C2F1BA5B2DE00257C49 /* 360WalkingDeadS2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 360WalkingDeadS2.jpg; sourceTree = "<group>"; };
+		B5B11C301BA5B2DE00257C49 /* DiabloPS4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DiabloPS4.jpg; sourceTree = "<group>"; };
+		B5B11C311BA5B2DE00257C49 /* PS4Evil.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PS4Evil.jpg; sourceTree = "<group>"; };
+		B5B11C321BA5B2DE00257C49 /* ps4tombraiderdefinitiveedition.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ps4tombraiderdefinitiveedition.jpg; sourceTree = "<group>"; };
+		B5B11C331BA5B2DE00257C49 /* PS4WalkingDeadS1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = PS4WalkingDeadS1.jpg; sourceTree = "<group>"; };
+		B5B11C341BA5B2DE00257C49 /* wiiriseoftheguardians.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wiiriseoftheguardians.jpg; sourceTree = "<group>"; };
+		B5B11C351BA5B2DE00257C49 /* wiitransformersprimethegame.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wiitransformersprimethegame.jpg; sourceTree = "<group>"; };
+		B5B11C491BA5BB9300257C49 /* plante01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plante01.jpg; sourceTree = "<group>"; };
+		B5B11C4A1BA5BB9300257C49 /* plante02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plante02.jpg; sourceTree = "<group>"; };
+		B5B11C4B1BA5BB9300257C49 /* plante03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plante03.jpg; sourceTree = "<group>"; };
+		B5B11C4C1BA5BB9300257C49 /* plante04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = plante04.jpg; sourceTree = "<group>"; };
+		B5B11C571BA5C6A500257C49 /* Plante.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Plante.swift; sourceTree = "<group>"; };
+		B5B11C5A1BA5CEB600257C49 /* Intro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Intro.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2065,6 +2110,8 @@
 		B5B113E71BA5A71B00257C49 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				B5B11C481BA5BB9300257C49 /* Flore Laurentienne */,
+				B5B11C2C1BA5B2DE00257C49 /* Pochettes de jeux */,
 				B5B115231BA5B07A00257C49 /* PNG icons */,
 			);
 			name = Images;
@@ -2158,6 +2205,7 @@
 		B5B114611BA5A82300257C49 /* module 04 */ = {
 			isa = PBXGroup;
 			children = (
+				B5B11C551BA5BFA900257C49 /* Les controleurs */,
 				B5B114641BA5A82300257C49 /* AppDelegate.swift */,
 				B5B114661BA5A82300257C49 /* ViewController.swift */,
 				B5B114681BA5A82300257C49 /* Main.storyboard */,
@@ -2242,6 +2290,7 @@
 		B5B114F91BA5A92F00257C49 /* module 04.solution */ = {
 			isa = PBXGroup;
 			children = (
+				B5B11C561BA5BFBE00257C49 /* Les controleurs */,
 				B5B114FC1BA5A92F00257C49 /* AppDelegate.swift */,
 				B5B114FE1BA5A92F00257C49 /* ViewController.swift */,
 				B5B115001BA5A92F00257C49 /* Main.storyboard */,
@@ -2465,6 +2514,49 @@
 				B5B115EB1BA5B07B00257C49 /* 99-umbrella.png */,
 			);
 			path = "PNG icons";
+			sourceTree = "<group>";
+		};
+		B5B11C2C1BA5B2DE00257C49 /* Pochettes de jeux */ = {
+			isa = PBXGroup;
+			children = (
+				B5B11C2D1BA5B2DE00257C49 /* 360AlienIsolation.jpg */,
+				B5B11C2E1BA5B2DE00257C49 /* 360Destiny.jpg */,
+				B5B11C2F1BA5B2DE00257C49 /* 360WalkingDeadS2.jpg */,
+				B5B11C301BA5B2DE00257C49 /* DiabloPS4.jpg */,
+				B5B11C311BA5B2DE00257C49 /* PS4Evil.jpg */,
+				B5B11C321BA5B2DE00257C49 /* ps4tombraiderdefinitiveedition.jpg */,
+				B5B11C331BA5B2DE00257C49 /* PS4WalkingDeadS1.jpg */,
+				B5B11C341BA5B2DE00257C49 /* wiiriseoftheguardians.jpg */,
+				B5B11C351BA5B2DE00257C49 /* wiitransformersprimethegame.jpg */,
+			);
+			path = "Pochettes de jeux";
+			sourceTree = "<group>";
+		};
+		B5B11C481BA5BB9300257C49 /* Flore Laurentienne */ = {
+			isa = PBXGroup;
+			children = (
+				B5B11C491BA5BB9300257C49 /* plante01.jpg */,
+				B5B11C4A1BA5BB9300257C49 /* plante02.jpg */,
+				B5B11C4B1BA5BB9300257C49 /* plante03.jpg */,
+				B5B11C4C1BA5BB9300257C49 /* plante04.jpg */,
+			);
+			path = "Flore Laurentienne";
+			sourceTree = "<group>";
+		};
+		B5B11C551BA5BFA900257C49 /* Les controleurs */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Les controleurs";
+			sourceTree = "<group>";
+		};
+		B5B11C561BA5BFBE00257C49 /* Les controleurs */ = {
+			isa = PBXGroup;
+			children = (
+				B5B11C571BA5C6A500257C49 /* Plante.swift */,
+				B5B11C5A1BA5CEB600257C49 /* Intro.swift */,
+			);
+			name = "Les controleurs";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -3166,10 +3258,12 @@
 				B5B1185E1BA5B07B00257C49 /* 162-receipt.png in Resources */,
 				B5B118E61BA5B07B00257C49 /* 178-city.png in Resources */,
 				B5B116A61BA5B07B00257C49 /* 112-group.png in Resources */,
+				B5B11C381BA5B2DE00257C49 /* 360Destiny.jpg in Resources */,
 				B5B11A261BA5B07B00257C49 /* 35-shopping.png in Resources */,
 				B5B11ABE1BA5B07B00257C49 /* 54-lock.png in Resources */,
 				B5B11B761BA5B07B00257C49 /* 77-ekg.png in Resources */,
 				B5B11B6E1BA5B07B00257C49 /* 76-baby.png in Resources */,
+				B5B11C401BA5B2DE00257C49 /* ps4tombraiderdefinitiveedition.jpg in Resources */,
 				B5B11B2E1BA5B07B00257C49 /* 68-paperclip.png in Resources */,
 				B5B118261BA5B07B00257C49 /* 156-controlpad.png in Resources */,
 				B5B116561BA5B07B00257C49 /* 103-map.png in Resources */,
@@ -3225,6 +3319,7 @@
 				B5B119FE1BA5B07B00257C49 /* 30-key.png in Resources */,
 				B5B11A761BA5B07B00257C49 /* 45-movie-1.png in Resources */,
 				B5B119661BA5B07B00257C49 /* 192-credit-card.png in Resources */,
+				B5B11C421BA5B2DE00257C49 /* PS4WalkingDeadS1.jpg in Resources */,
 				B5B11B061BA5B07B00257C49 /* 63-runner.png in Resources */,
 				B5B1195E1BA5B07B00257C49 /* 191-collection.png in Resources */,
 				B5B11A0E1BA5B07B00257C49 /* 32-iphone.png in Resources */,
@@ -3251,7 +3346,9 @@
 				B5B11C261BA5B07B00257C49 /* 99-umbrella.png in Resources */,
 				B5B11A7E1BA5B07B00257C49 /* 46-movie-2.png in Resources */,
 				B5B11B261BA5B07B00257C49 /* 67-tshirt.png in Resources */,
+				B5B11C441BA5B2DE00257C49 /* wiiriseoftheguardians.jpg in Resources */,
 				B5B1192E1BA5B07B00257C49 /* 186-ruler.png in Resources */,
+				B5B11C3C1BA5B2DE00257C49 /* DiabloPS4.jpg in Resources */,
 				B5B11B4E1BA5B07B00257C49 /* 72-pin.png in Resources */,
 				B5B1179E1BA5B07B00257C49 /* 140-gradhat.png in Resources */,
 				B5B11BC61BA5B07B00257C49 /* 87-wine-glass.png in Resources */,
@@ -3269,6 +3366,7 @@
 				B5B1165E1BA5B07B00257C49 /* 104-index-cards.png in Resources */,
 				B5B118FE1BA5B07B00257C49 /* 180-stickynote.png in Resources */,
 				B5B116B61BA5B07B00257C49 /* 114-balloon.png in Resources */,
+				B5B11C3A1BA5B2DE00257C49 /* 360WalkingDeadS2.jpg in Resources */,
 				B5B116EE1BA5B07B00257C49 /* 120-headphones.png in Resources */,
 				B5B11BA61BA5B07B00257C49 /* 83-calendar.png in Resources */,
 				B5B1198E1BA5B07B00257C49 /* 197-card-diamonds.png in Resources */,
@@ -3303,6 +3401,7 @@
 				B5B117061BA5B07B00257C49 /* 123-id-card.png in Resources */,
 				B5B117AE1BA5B07B00257C49 /* 142-wine-bottle.png in Resources */,
 				B5B1196E1BA5B07B00257C49 /* 193-location-arrow.png in Resources */,
+				B5B11C461BA5B2DE00257C49 /* wiitransformersprimethegame.jpg in Resources */,
 				B5B118CE1BA5B07B00257C49 /* 175-macbook.png in Resources */,
 				B5B1167E1BA5B07B00257C49 /* 108-badge.png in Resources */,
 				B5B1174E1BA5B07B00257C49 /* 131-tower.png in Resources */,
@@ -3316,6 +3415,7 @@
 				B5B119761BA5B07B00257C49 /* 194-note-2.png in Resources */,
 				B5B11AF61BA5B07B00257C49 /* 61-brightness.png in Resources */,
 				B5B1191E1BA5B07B00257C49 /* 184-warning.png in Resources */,
+				B5B11C361BA5B2DE00257C49 /* 360AlienIsolation.jpg in Resources */,
 				B5B119561BA5B07B00257C49 /* 190-bank.png in Resources */,
 				B5B118D61BA5B07B00257C49 /* 176-ipad.png in Resources */,
 				B5B116AE1BA5B07B00257C49 /* 113-navigation.png in Resources */,
@@ -3341,6 +3441,7 @@
 				B5B117E61BA5B07B00257C49 /* 149-windmill.png in Resources */,
 				B5B117161BA5B07B00257C49 /* 125-food.png in Resources */,
 				B5B11A2E1BA5B07B00257C49 /* 36-toolbox.png in Resources */,
+				B5B11C3E1BA5B2DE00257C49 /* PS4Evil.jpg in Resources */,
 				B5B11AEE1BA5B07B00257C49 /* 60-signpost.png in Resources */,
 				B5B11BCE1BA5B07B00257C49 /* 88-beer-mug.png in Resources */,
 				B5B117261BA5B07B00257C49 /* 127-sock.png in Resources */,
@@ -3397,6 +3498,7 @@
 				B5B116271BA5B07B00257C49 /* 08-chat.png in Resources */,
 				B5B118671BA5B07B00257C49 /* 163-glasses-1.png in Resources */,
 				B5B115F71BA5B07B00257C49 /* 02-redo.png in Resources */,
+				B5B11C4F1BA5BB9300257C49 /* plante02.jpg in Resources */,
 				B5B11BDF1BA5B07B00257C49 /* 90-life-buoy.png in Resources */,
 				B5B115FF1BA5B07B00257C49 /* 03-loopback.png in Resources */,
 				B5B119C71BA5B07B00257C49 /* 23-bird.png in Resources */,
@@ -3421,6 +3523,7 @@
 				B5B11A171BA5B07B00257C49 /* 33-cabinet.png in Resources */,
 				B5B1182F1BA5B07B00257C49 /* 157-wrench.png in Resources */,
 				B5B117CF1BA5B07B00257C49 /* 146-gavel.png in Resources */,
+				B5B11C531BA5BB9300257C49 /* plante04.jpg in Resources */,
 				B5B116171BA5B07B00257C49 /* 06-magnify.png in Resources */,
 				B5B1180F1BA5B07B00257C49 /* 153-guitar.png in Resources */,
 				B5B118C71BA5B07B00257C49 /* 174-imac.png in Resources */,
@@ -3513,11 +3616,13 @@
 				B5B117071BA5B07B00257C49 /* 123-id-card.png in Resources */,
 				B5B117AF1BA5B07B00257C49 /* 142-wine-bottle.png in Resources */,
 				B5B1196F1BA5B07B00257C49 /* 193-location-arrow.png in Resources */,
+				B5B11C511BA5BB9300257C49 /* plante03.jpg in Resources */,
 				B5B118CF1BA5B07B00257C49 /* 175-macbook.png in Resources */,
 				B5B1167F1BA5B07B00257C49 /* 108-badge.png in Resources */,
 				B5B1174F1BA5B07B00257C49 /* 131-tower.png in Resources */,
 				B5B11BF71BA5B07B00257C49 /* 93-thermometer.png in Resources */,
 				B5B11A3F1BA5B07B00257C49 /* 38-airplane.png in Resources */,
+				B5B11C4D1BA5BB9300257C49 /* plante01.jpg in Resources */,
 				B5B11A8F1BA5B07B00257C49 /* 48-fork-and-knife.png in Resources */,
 				B5B1181F1BA5B07B00257C49 /* 155-bowtie.png in Resources */,
 				B5B1166F1BA5B07B00257C49 /* 106-sliders.png in Resources */,
@@ -4006,10 +4111,12 @@
 				B5B118621BA5B07B00257C49 /* 162-receipt.png in Resources */,
 				B5B118EA1BA5B07B00257C49 /* 178-city.png in Resources */,
 				B5B116AA1BA5B07B00257C49 /* 112-group.png in Resources */,
+				B5B11C391BA5B2DE00257C49 /* 360Destiny.jpg in Resources */,
 				B5B11A2A1BA5B07B00257C49 /* 35-shopping.png in Resources */,
 				B5B11AC21BA5B07B00257C49 /* 54-lock.png in Resources */,
 				B5B11B7A1BA5B07B00257C49 /* 77-ekg.png in Resources */,
 				B5B11B721BA5B07B00257C49 /* 76-baby.png in Resources */,
+				B5B11C411BA5B2DE00257C49 /* ps4tombraiderdefinitiveedition.jpg in Resources */,
 				B5B11B321BA5B07B00257C49 /* 68-paperclip.png in Resources */,
 				B5B1182A1BA5B07B00257C49 /* 156-controlpad.png in Resources */,
 				B5B1165A1BA5B07B00257C49 /* 103-map.png in Resources */,
@@ -4065,6 +4172,7 @@
 				B5B11A021BA5B07B00257C49 /* 30-key.png in Resources */,
 				B5B11A7A1BA5B07B00257C49 /* 45-movie-1.png in Resources */,
 				B5B1196A1BA5B07B00257C49 /* 192-credit-card.png in Resources */,
+				B5B11C431BA5B2DE00257C49 /* PS4WalkingDeadS1.jpg in Resources */,
 				B5B11B0A1BA5B07B00257C49 /* 63-runner.png in Resources */,
 				B5B119621BA5B07B00257C49 /* 191-collection.png in Resources */,
 				B5B11A121BA5B07B00257C49 /* 32-iphone.png in Resources */,
@@ -4091,7 +4199,9 @@
 				B5B11C2A1BA5B07B00257C49 /* 99-umbrella.png in Resources */,
 				B5B11A821BA5B07B00257C49 /* 46-movie-2.png in Resources */,
 				B5B11B2A1BA5B07B00257C49 /* 67-tshirt.png in Resources */,
+				B5B11C451BA5B2DE00257C49 /* wiiriseoftheguardians.jpg in Resources */,
 				B5B119321BA5B07B00257C49 /* 186-ruler.png in Resources */,
+				B5B11C3D1BA5B2DE00257C49 /* DiabloPS4.jpg in Resources */,
 				B5B11B521BA5B07B00257C49 /* 72-pin.png in Resources */,
 				B5B117A21BA5B07B00257C49 /* 140-gradhat.png in Resources */,
 				B5B11BCA1BA5B07B00257C49 /* 87-wine-glass.png in Resources */,
@@ -4109,6 +4219,7 @@
 				B5B116621BA5B07B00257C49 /* 104-index-cards.png in Resources */,
 				B5B119021BA5B07B00257C49 /* 180-stickynote.png in Resources */,
 				B5B116BA1BA5B07B00257C49 /* 114-balloon.png in Resources */,
+				B5B11C3B1BA5B2DE00257C49 /* 360WalkingDeadS2.jpg in Resources */,
 				B5B116F21BA5B07B00257C49 /* 120-headphones.png in Resources */,
 				B5B11BAA1BA5B07B00257C49 /* 83-calendar.png in Resources */,
 				B5B119921BA5B07B00257C49 /* 197-card-diamonds.png in Resources */,
@@ -4143,6 +4254,7 @@
 				B5B1170A1BA5B07B00257C49 /* 123-id-card.png in Resources */,
 				B5B117B21BA5B07B00257C49 /* 142-wine-bottle.png in Resources */,
 				B5B119721BA5B07B00257C49 /* 193-location-arrow.png in Resources */,
+				B5B11C471BA5B2DE00257C49 /* wiitransformersprimethegame.jpg in Resources */,
 				B5B118D21BA5B07B00257C49 /* 175-macbook.png in Resources */,
 				B5B116821BA5B07B00257C49 /* 108-badge.png in Resources */,
 				B5B117521BA5B07B00257C49 /* 131-tower.png in Resources */,
@@ -4156,6 +4268,7 @@
 				B5B1197A1BA5B07B00257C49 /* 194-note-2.png in Resources */,
 				B5B11AFA1BA5B07B00257C49 /* 61-brightness.png in Resources */,
 				B5B119221BA5B07B00257C49 /* 184-warning.png in Resources */,
+				B5B11C371BA5B2DE00257C49 /* 360AlienIsolation.jpg in Resources */,
 				B5B1195A1BA5B07B00257C49 /* 190-bank.png in Resources */,
 				B5B118DA1BA5B07B00257C49 /* 176-ipad.png in Resources */,
 				B5B116B21BA5B07B00257C49 /* 113-navigation.png in Resources */,
@@ -4181,6 +4294,7 @@
 				B5B117EA1BA5B07B00257C49 /* 149-windmill.png in Resources */,
 				B5B1171A1BA5B07B00257C49 /* 125-food.png in Resources */,
 				B5B11A321BA5B07B00257C49 /* 36-toolbox.png in Resources */,
+				B5B11C3F1BA5B2DE00257C49 /* PS4Evil.jpg in Resources */,
 				B5B11AF21BA5B07B00257C49 /* 60-signpost.png in Resources */,
 				B5B11BD21BA5B07B00257C49 /* 88-beer-mug.png in Resources */,
 				B5B1172A1BA5B07B00257C49 /* 127-sock.png in Resources */,
@@ -4237,6 +4351,7 @@
 				B5B1162B1BA5B07B00257C49 /* 08-chat.png in Resources */,
 				B5B1186B1BA5B07B00257C49 /* 163-glasses-1.png in Resources */,
 				B5B115FB1BA5B07B00257C49 /* 02-redo.png in Resources */,
+				B5B11C501BA5BB9300257C49 /* plante02.jpg in Resources */,
 				B5B11BE31BA5B07B00257C49 /* 90-life-buoy.png in Resources */,
 				B5B116031BA5B07B00257C49 /* 03-loopback.png in Resources */,
 				B5B119CB1BA5B07B00257C49 /* 23-bird.png in Resources */,
@@ -4261,6 +4376,7 @@
 				B5B11A1B1BA5B07B00257C49 /* 33-cabinet.png in Resources */,
 				B5B118331BA5B07B00257C49 /* 157-wrench.png in Resources */,
 				B5B117D31BA5B07B00257C49 /* 146-gavel.png in Resources */,
+				B5B11C541BA5BB9300257C49 /* plante04.jpg in Resources */,
 				B5B1161B1BA5B07B00257C49 /* 06-magnify.png in Resources */,
 				B5B118131BA5B07B00257C49 /* 153-guitar.png in Resources */,
 				B5B118CB1BA5B07B00257C49 /* 174-imac.png in Resources */,
@@ -4353,11 +4469,13 @@
 				B5B1170B1BA5B07B00257C49 /* 123-id-card.png in Resources */,
 				B5B117B31BA5B07B00257C49 /* 142-wine-bottle.png in Resources */,
 				B5B119731BA5B07B00257C49 /* 193-location-arrow.png in Resources */,
+				B5B11C521BA5BB9300257C49 /* plante03.jpg in Resources */,
 				B5B118D31BA5B07B00257C49 /* 175-macbook.png in Resources */,
 				B5B116831BA5B07B00257C49 /* 108-badge.png in Resources */,
 				B5B117531BA5B07B00257C49 /* 131-tower.png in Resources */,
 				B5B11BFB1BA5B07B00257C49 /* 93-thermometer.png in Resources */,
 				B5B11A431BA5B07B00257C49 /* 38-airplane.png in Resources */,
+				B5B11C4E1BA5BB9300257C49 /* plante01.jpg in Resources */,
 				B5B11A931BA5B07B00257C49 /* 48-fork-and-knife.png in Resources */,
 				B5B118231BA5B07B00257C49 /* 155-bowtie.png in Resources */,
 				B5B116731BA5B07B00257C49 /* 106-sliders.png in Resources */,
@@ -4460,6 +4578,8 @@
 			files = (
 				B5B114671BA5A82300257C49 /* ViewController.swift in Sources */,
 				B5B114651BA5A82300257C49 /* AppDelegate.swift in Sources */,
+				B5B11C5B1BA5CEB600257C49 /* Intro.swift in Sources */,
+				B5B11C581BA5C6A500257C49 /* Plante.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4496,6 +4616,8 @@
 			files = (
 				B5B114FF1BA5A92F00257C49 /* ViewController.swift in Sources */,
 				B5B114FD1BA5A92F00257C49 /* AppDelegate.swift in Sources */,
+				B5B11C5C1BA5CEB600257C49 /* Intro.swift in Sources */,
+				B5B11C591BA5C6A500257C49 /* Plante.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

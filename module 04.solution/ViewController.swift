@@ -10,16 +10,27 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var titre = ""
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-    }
+        // Affectation conditionnelle si pas 'nil'
+        if let tmp = self.title {
+            titre = tmp
+        }
+        else {
+            titre = "Non défini..."
+        }
+        
+        /*  Non recommandé
+        if self.title != nil {
+        titre = self.title!
+        }
+        */
+        
+        println("Trace: viewDidLoad() de la classe ViewController pour la scène dont le titre est '\(titre)'")
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
+    } // viewDidLoad()
 
-
-}
+} // class ViewController
 
