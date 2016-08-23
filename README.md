@@ -15,7 +15,7 @@ Mise à jour:
 2016.08.22 - Migration vers Xcode 8 et swift 3
 
 ---------------------------------------------------
-Projet préparé par **Alain Boudreault**,
+Projet préparé par **Alain Boudreault**, aka ve2cuy, aka puyansude.
 
 Pour les étudiants et étudiantes de **T**echniques d'**I**ntégration **M**ultimédia du cégep de Saint-Jérôme.
 
