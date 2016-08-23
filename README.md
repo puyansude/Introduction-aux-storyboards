@@ -21,4 +21,4 @@ Projet préparé par **Alain Boudreault**, aka [ve2cuy](http://ve2cuy.wordpress.
 
 Pour les étudiants et étudiantes de **T**echniques d'**I**ntégration **M**ultimédia du cégep de Saint-Jérôme.
 
-:copyright: Tous droits réservés, 2014-2016 Alain Boudreault
+:copyright: Tous droits réservés, Alain Boudreault - 2014-2016 
