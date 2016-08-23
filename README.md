@@ -17,6 +17,6 @@ Mise à jour:
 ---------------------------------------------------
 Projet préparé par **Alain Boudreault**,
 
-Pour les étudiants et étudiantes de **T**echniques d'**I**ntégration **M**ultimédia du cége de Saint-Jérôme.
+Pour les étudiants et étudiantes de **T**echniques d'**I**ntégration **M**ultimédia du cégep de Saint-Jérôme.
 
 :copyright: Tous droits réservés, 2014-2016 A.B.
