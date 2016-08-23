@@ -15,9 +15,10 @@ Mise à jour:
 2016.08.22 - Migration vers Xcode 8 et swift 3
 
 ---------------------------------------------------
-Projet préparé par Alain Boudreault,
+Projet préparé par **Alain Boudreault**,
+
 Pour les étudiants et étudiantes de
 Techniques d'Intégration Multimédia
 Du cégep de Saint-Jérôme.
 
-Tous droits réservés, 2014-2016 A.B.
+:copyright: Tous droits réservés, 2014-2016 A.B.
