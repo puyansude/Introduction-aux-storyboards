@@ -13,11 +13,14 @@ class Intro: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-         NSTimer.scheduledTimerWithTimeInterval(2, target: self, selector: Selector("passerAuMenuPrincipal"), userInfo: nil, repeats: false)
+         Timer.scheduledTimer(timeInterval: 2, target: self, selector: #selector(Intro.passerAuMenuPrincipal), userInfo: nil, repeats: false)
+        
+        
+  
     }
 
     func passerAuMenuPrincipal(){
-        performSegueWithIdentifier("versMenuPrincipal", sender: self)
+        performSegue(withIdentifier: "versMenuPrincipal", sender: self)
     } // passerAuMenuPrincipal
     
 

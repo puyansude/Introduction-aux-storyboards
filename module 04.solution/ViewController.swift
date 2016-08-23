@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         }
         */
         
-        println("Trace: viewDidLoad() de la classe ViewController pour la scène dont le titre est '\(titre)'")
+        print("Trace: viewDidLoad() de la classe ViewController pour la scène dont le titre est '\(titre)'")
 
     } // viewDidLoad()
 

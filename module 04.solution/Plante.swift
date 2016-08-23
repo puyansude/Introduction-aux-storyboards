@@ -13,9 +13,9 @@ class Plante: UIViewController {
     // MARK: - Propriétés et actions
     var titre = ""
     
-    @IBAction func retournerAuMenu(sender: AnyObject) {
+    @IBAction func retournerAuMenu(_ sender: AnyObject) {
         // Retour à la fenêtre précédente
-        dismissViewControllerAnimated(true, completion: nil)
+        dismiss(animated: true, completion: nil)
     }
     
     
@@ -35,7 +35,7 @@ class Plante: UIViewController {
         }
         */
         
-        println("Trace: viewDidLoad() de la classe ViewController pour la scène dont le titre est '\(titre)'")
+        print("Trace: viewDidLoad() de la classe ViewController pour la scène dont le titre est '\(titre)'")
        
     } // viewDidLoad()
 
